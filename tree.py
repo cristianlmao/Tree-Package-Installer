@@ -38,7 +38,7 @@ sql_query = sql.cursor()
 ### install
 def install(name,link, author, version):
     
-    print("\n\n [Tree] Installing package: " + link + " (From author: " + author +" | With version: " + str(version)+ ")\n\n") ## Proccess starts!
+    print("\n\n [Tree] Installing package: " + name + " (From author: " + author +" | With version: " + str(version)+ ")\n\n") ## Proccess starts!
 
     #getting url:
     print("          > Getting url...")
