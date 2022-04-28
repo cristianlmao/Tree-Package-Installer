@@ -3,6 +3,6 @@ Tree package installer (a.k.a tpi) is a open source package manager and installe
 
 # How to use:
 If compiled:
-  <path>/tree help
+- tree help
 If not compiled:
-  python3 <path>/tree.py help
+- python3 tree.py help
